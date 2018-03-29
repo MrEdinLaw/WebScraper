@@ -1,0 +1,16 @@
+javascript
+pdf
+doc
+docx
+jpg
+jpeg
+png
+JPG
+JPEG
+PNG
+gif
+GIF
+ppt
+rar
+pptx
+zip
