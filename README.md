@@ -40,4 +40,4 @@ MrEdinLaw – [@MrEdinLaw](https://twitter.com/mredinlaw)
 <!-- Markdown link & img dfn's -->
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+[wiki]: https://github.com/mredinlaw/WebScraper/wiki
